@@ -7,6 +7,7 @@ export default function DashboardLayout() {
       </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
        <p> Dashboard Page </p>
+       
       </div>
     </div>  
   );
